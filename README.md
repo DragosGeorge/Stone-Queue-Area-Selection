@@ -8,6 +8,8 @@ Instead of adding each stone individually, players can draw a selection area wit
 
 [▶ Watch the video demonstration](./demonstration.mp4)
 
+![Demo](demonstration.mp4)
+
 ## How to use
 
 1. Hold the **CTRL** key.
