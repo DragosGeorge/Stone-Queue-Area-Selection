@@ -8,8 +8,6 @@ Instead of adding each stone individually, players can draw a selection area wit
 
 [▶ Watch the video demonstration](./demonstration.mp4)
 
-> Keep `demonstration.mp4` in the same directory as this README for the link to work on GitHub.
-
 ## How to use
 
 1. Hold the **CTRL** key.
