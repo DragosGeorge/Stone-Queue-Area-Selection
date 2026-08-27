@@ -1,0 +1,1 @@
+#define ENABLE_METIN_QUEUE_AREA_SELECTION // CTRL+drag selection for Metin Queue
